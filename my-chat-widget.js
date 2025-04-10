@@ -17,7 +17,7 @@ class MyChatWidget extends HTMLElement {
           z-index: 1000;
         }
         .chat-header {
-          background: #007bff;
+          background: #1c3f94;
           color: white;
           padding: 10px;
           border-radius: 8px 8px 0 0;
@@ -39,7 +39,7 @@ class MyChatWidget extends HTMLElement {
         }
         .chat-input button {
           border: none;
-          background: #007bff;
+          background: #1c3f94;
           color: white;
           padding: 10px;
           cursor: pointer;
