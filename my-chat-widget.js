@@ -6,7 +6,7 @@ class MyChatWidget extends HTMLElement {
       <style>
         .chat-container {
           position: fixed;
-          bottom: 20px;
+          bottom: 0;
           right: 20px;
           width: 300px;
           background: white;
