@@ -24,7 +24,8 @@ class MyChatWidget extends HTMLElement {
           cursor: pointer;
         }
         .chat-messages {
-          max-height: 200px;
+          max-height: 350px;
+          min-height: 200px;
           overflow-y: auto;
           padding: 10px;
         }
